@@ -1,7 +1,7 @@
 <h1>Aula-front-descomplica</h1> 
 
 
-> Status do Projeto:  :warning: ( Em desenvolvimento, etc)
+> Status do Projeto:  :warning:
 
 ### Tópicos 
 
@@ -23,8 +23,11 @@
 
 
 ## Layout da Aplicação 
+![image](https://github.com/DanielFossali/aula-front-descomplica/assets/118317958/f8a160f0-289f-4a2f-827f-3e6936586818)
 
 
 ## Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
+
+git clone https://github.com/DanielFossali/aula-front-descomplica
